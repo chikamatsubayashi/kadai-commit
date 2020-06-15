@@ -9,7 +9,6 @@
         return $fortune[random_int(0, count($fortune) - 1)];
     }
 ?>
-
 <!DOCTYPE html>
 <html lang="ja">
     <head>
